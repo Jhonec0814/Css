@@ -105,3 +105,8 @@ body {
     font-size: 14px;
     font-weight: 600;
 }
+
+body {
+    background-image: url("/Img/lavander.jpg");
+    background-color: #cccccc;
+   }
